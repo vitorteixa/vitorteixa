@@ -9,7 +9,7 @@ Sou desenvolvedor apaixonado por tecnologia e inovação, com foco em soluções
 - 💡 Especialista em **Microsoft Dynamics 365** e **Power Platform**
 - 🧩 Desenvolvimento de **plugins**, **Custom APIs** e integrações
 - 🌐 Experiência com **PowerPages** (Liquid, JavaScript, HTML, CSS)
-- 🖥️ Estudo e prática com **.NET**, **Vue.js**, **React.js**
+- 🖥️ Estudo e prática com **.NET**, **PowerApps(powerfx)**, **Javascript**
 - 👨‍💻 Sempre buscando aprender e aplicar novas tecnologias
 
 ---
